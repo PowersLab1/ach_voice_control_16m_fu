@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ach_voice_control_fu/static/css/main.0c4e210a.chunk.css",
+    "main.js": "/ach_voice_control_fu/static/js/main.e745fd57.chunk.js",
+    "main.js.map": "/ach_voice_control_fu/static/js/main.e745fd57.chunk.js.map",
+    "runtime-main.js": "/ach_voice_control_fu/static/js/runtime-main.0fe3dc64.js",
+    "runtime-main.js.map": "/ach_voice_control_fu/static/js/runtime-main.0fe3dc64.js.map",
+    "static/js/2.53a28b2b.chunk.js": "/ach_voice_control_fu/static/js/2.53a28b2b.chunk.js",
+    "static/js/2.53a28b2b.chunk.js.map": "/ach_voice_control_fu/static/js/2.53a28b2b.chunk.js.map",
+    "index.html": "/ach_voice_control_fu/index.html",
+    "precache-manifest.0bbbc91d4b3b22c0672d41612f2bf6ad.js": "/ach_voice_control_fu/precache-manifest.0bbbc91d4b3b22c0672d41612f2bf6ad.js",
+    "service-worker.js": "/ach_voice_control_fu/service-worker.js",
+    "static/css/main.0c4e210a.chunk.css.map": "/ach_voice_control_fu/static/css/main.0c4e210a.chunk.css.map",
+    "static/js/2.53a28b2b.chunk.js.LICENSE.txt": "/ach_voice_control_fu/static/js/2.53a28b2b.chunk.js.LICENSE.txt",
+    "static/media/psych_logo.jpg": "/ach_voice_control_fu/static/media/psych_logo.6956dbda.jpg",
+    "static/media/rating_keydown_1.png": "/ach_voice_control_fu/static/media/rating_keydown_1.d9fbf22f.png",
+    "static/media/rating_keydown_2.png": "/ach_voice_control_fu/static/media/rating_keydown_2.6a659dd4.png",
+    "static/media/rating_keydown_3.png": "/ach_voice_control_fu/static/media/rating_keydown_3.d955b91a.png",
+    "static/media/rating_keydown_4.png": "/ach_voice_control_fu/static/media/rating_keydown_4.c8b7c686.png",
+    "static/media/rating_keydown_5.png": "/ach_voice_control_fu/static/media/rating_keydown_5.34958048.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fe3dc64.js",
+    "static/js/2.53a28b2b.chunk.js",
+    "static/css/main.0c4e210a.chunk.css",
+    "static/js/main.e745fd57.chunk.js"
+  ]
+}
