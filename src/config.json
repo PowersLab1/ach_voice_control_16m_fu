@@ -1,6 +1,6 @@
 {
   "taskVersion": "1.0.0",
-  "taskName": "ach_voice_control_fu",
+  "taskName": "ach_voice_control_16m_fu",
   "debug": false,
   "awsLambda": {
     "saveTaskData": {
